@@ -1,7 +1,7 @@
 # el_mensajero
 
 
-Click [aquí](https://github.com/ESTHERRODRIGUEZGARCIA/reto-book_cipher.git) para ver el enlace del repositorio.
+Click [aquí](https://github.com/ESTHERRODRIGUEZGARCIA/el_mensajero) para ver el enlace del repositorio.
 
 Trabajo hecho por:
 1. [Esther Rodríguez García](https://github.com/ESTHERRODRIGUEZGARCIA)
